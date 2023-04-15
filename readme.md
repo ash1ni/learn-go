@@ -1,13 +1,15 @@
-#GO Language
+# GO Language
 
-To build the code use <br>
+To build the code use 
+
 ```bash
 go build filename.go 
 ```
-<br>
-To run the code use <br>
-```bash
+
+To run the code use 
+
+```
 ./filename.exe
 ```
-<br>
-To 
+
+
